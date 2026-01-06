@@ -122,3 +122,7 @@ Ensure your plugin files look like this for version 19+:
           ├── eth.png
           ├── trx.png
           └── ...
+```
+📜 License
+This project is licensed under the MIT License.
+
